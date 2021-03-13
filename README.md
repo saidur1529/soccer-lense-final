@@ -1,3 +1,11 @@
+# SOCCER LENSE PROJECT DETAILS
+This is a react project on Routing
+here you can find the [Live Preview](https://soccer-lense.netlify.app).
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

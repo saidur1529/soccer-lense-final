@@ -1,0 +1,21 @@
+.middle-card {
+    background-color: rgba(31, 214, 71, 0.486);
+    border-radius: 15px;
+  }
+  .brand-icon {
+    font-size: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .facebook {
+    color: #0e8ef1;
+  }
+  .youtube {
+    color: #ff0000;
+  }
+  
+  .twitter {
+    color: #00a2f3;
+  }
+  
